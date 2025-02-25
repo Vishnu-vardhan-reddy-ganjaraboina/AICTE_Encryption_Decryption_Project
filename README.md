@@ -1,4 +1,3 @@
-# AICTE_Encryption_Decryption_Project
 # Secure Data Hiding in Images using Steganography
 
 ## 📌 Project Overview
@@ -67,3 +66,4 @@ This project is **open-source** and available under the [MIT License](LICENSE).
 
 ## 🙌 Contributing
 Feel free to fork this repository, raise issues, or contribute enhancements! 😊
+
